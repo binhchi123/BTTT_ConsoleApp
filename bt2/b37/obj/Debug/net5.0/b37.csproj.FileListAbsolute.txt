@@ -1,0 +1,15 @@
+D:\ASP .NET Core\bt2\b37\bin\Debug\net5.0\b37.exe
+D:\ASP .NET Core\bt2\b37\bin\Debug\net5.0\b37.deps.json
+D:\ASP .NET Core\bt2\b37\bin\Debug\net5.0\b37.runtimeconfig.json
+D:\ASP .NET Core\bt2\b37\bin\Debug\net5.0\b37.runtimeconfig.dev.json
+D:\ASP .NET Core\bt2\b37\bin\Debug\net5.0\b37.dll
+D:\ASP .NET Core\bt2\b37\bin\Debug\net5.0\b37.pdb
+D:\ASP .NET Core\bt2\b37\obj\Debug\net5.0\b37.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET Core\bt2\b37\obj\Debug\net5.0\b37.AssemblyInfoInputs.cache
+D:\ASP .NET Core\bt2\b37\obj\Debug\net5.0\b37.AssemblyInfo.cs
+D:\ASP .NET Core\bt2\b37\obj\Debug\net5.0\b37.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\bt2\b37\obj\Debug\net5.0\b37.dll
+D:\ASP .NET Core\bt2\b37\obj\Debug\net5.0\refint\b37.dll
+D:\ASP .NET Core\bt2\b37\obj\Debug\net5.0\b37.pdb
+D:\ASP .NET Core\bt2\b37\obj\Debug\net5.0\b37.genruntimeconfig.cache
+D:\ASP .NET Core\bt2\b37\obj\Debug\net5.0\ref\b37.dll

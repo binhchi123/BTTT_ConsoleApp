@@ -1,0 +1,7 @@
+D:\ASP .NET Core\bttt\b7\bin\Debug\b7.exe.config
+D:\ASP .NET Core\bttt\b7\bin\Debug\b7.exe
+D:\ASP .NET Core\bttt\b7\bin\Debug\b7.pdb
+D:\ASP .NET Core\bttt\b7\obj\Debug\b7.csproj.AssemblyReference.cache
+D:\ASP .NET Core\bttt\b7\obj\Debug\b7.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\bttt\b7\obj\Debug\b7.exe
+D:\ASP .NET Core\bttt\b7\obj\Debug\b7.pdb

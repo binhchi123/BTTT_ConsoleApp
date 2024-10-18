@@ -1,0 +1,6 @@
+D:\ASP .NET Core\bttt\b24\bin\Debug\b24.exe.config
+D:\ASP .NET Core\bttt\b24\bin\Debug\b24.exe
+D:\ASP .NET Core\bttt\b24\bin\Debug\b24.pdb
+D:\ASP .NET Core\bttt\b24\obj\Debug\b24.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\bttt\b24\obj\Debug\b24.exe
+D:\ASP .NET Core\bttt\b24\obj\Debug\b24.pdb

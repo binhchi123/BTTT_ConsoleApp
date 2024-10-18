@@ -1,0 +1,6 @@
+D:\ASP .NET Core\bttt\b23\bin\Debug\b23.exe.config
+D:\ASP .NET Core\bttt\b23\bin\Debug\b23.exe
+D:\ASP .NET Core\bttt\b23\bin\Debug\b23.pdb
+D:\ASP .NET Core\bttt\b23\obj\Debug\b23.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\bttt\b23\obj\Debug\b23.exe
+D:\ASP .NET Core\bttt\b23\obj\Debug\b23.pdb

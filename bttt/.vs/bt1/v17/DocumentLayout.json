@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP .NET Core\\bttt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC7F00C-EB85-49C0-9EC2-CE7B312E964F}|b35\\b35.csproj|d:\\asp .net core\\bttt\\b35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC7F00C-EB85-49C0-9EC2-CE7B312E964F}|b35\\b35.csproj|solutionrelative:b35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928A1A3A-9337-480E-93BF-E5B872F83806}|b34\\b34.csproj|d:\\asp .net core\\bttt\\b34\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928A1A3A-9337-480E-93BF-E5B872F83806}|b34\\b34.csproj|solutionrelative:b34\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE4BB95-0DD2-4933-81CE-9C03382E1743}|b43\\b43.csproj|d:\\asp .net core\\bttt\\b43\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE4BB95-0DD2-4933-81CE-9C03382E1743}|b43\\b43.csproj|solutionrelative:b43\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11394253-AF09-46B8-8BDC-BF1D46596AE3}|b42\\b42.csproj|d:\\asp .net core\\bttt\\b42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11394253-AF09-46B8-8BDC-BF1D46596AE3}|b42\\b42.csproj|solutionrelative:b42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5647EC8B-1318-428F-AB55-9D5ABB2DF9EC}|b40\\b40.csproj|d:\\asp .net core\\bttt\\b40\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5647EC8B-1318-428F-AB55-9D5ABB2DF9EC}|b40\\b40.csproj|solutionrelative:b40\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47215C9F-AFE1-4E71-819D-AD2F4CAC3466}|b41\\b41.csproj|d:\\asp .net core\\bttt\\b41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47215C9F-AFE1-4E71-819D-AD2F4CAC3466}|b41\\b41.csproj|solutionrelative:b41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC606D3-569B-4574-9F67-9DFA8826CBAB}|b38\\b38.csproj|d:\\asp .net core\\bttt\\b38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC606D3-569B-4574-9F67-9DFA8826CBAB}|b38\\b38.csproj|solutionrelative:b38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0095A71F-8E8C-41B2-99EB-E637F80A4CDE}|b39\\b39.csproj|d:\\asp .net core\\bttt\\b39\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0095A71F-8E8C-41B2-99EB-E637F80A4CDE}|b39\\b39.csproj|solutionrelative:b39\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D258DD05-9188-4623-8193-8165E2D5B2E6}|b28\\b28.csproj|D:\\ASP .NET Core\\bttt\\b28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D258DD05-9188-4623-8193-8165E2D5B2E6}|b28\\b28.csproj|solutionrelative:b28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56357EBE-2F56-4AC4-9F12-A51AFCA828C5}|b36\\b36.csproj|d:\\asp .net core\\bttt\\b36\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56357EBE-2F56-4AC4-9F12-A51AFCA828C5}|b36\\b36.csproj|solutionrelative:b36\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D268FB1-6BC0-48C6-911C-29581EB32AFF}|b37\\b37.csproj|d:\\asp .net core\\bttt\\b37\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D268FB1-6BC0-48C6-911C-29581EB32AFF}|b37\\b37.csproj|solutionrelative:b37\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\bttt\\b34\\Program.cs",
+              "RelativeDocumentMoniker": "b34\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\bttt\\b34\\Program.cs",
+              "RelativeToolTip": "b34\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:37:00.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\bttt\\b43\\Program.cs",
+              "RelativeDocumentMoniker": "b43\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\bttt\\b43\\Program.cs",
+              "RelativeToolTip": "b43\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:33:08.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\bttt\\b42\\Program.cs",
+              "RelativeDocumentMoniker": "b42\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\bttt\\b42\\Program.cs",
+              "RelativeToolTip": "b42\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:29:20.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\bttt\\b41\\Program.cs",
+              "RelativeDocumentMoniker": "b41\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\bttt\\b41\\Program.cs",
+              "RelativeToolTip": "b41\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:22:26.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\bttt\\b40\\Program.cs",
+              "RelativeDocumentMoniker": "b40\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\bttt\\b40\\Program.cs",
+              "RelativeToolTip": "b40\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:05:21.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\bttt\\b39\\Program.cs",
+              "RelativeDocumentMoniker": "b39\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\bttt\\b39\\Program.cs",
+              "RelativeToolTip": "b39\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:58:55.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\bttt\\b38\\Program.cs",
+              "RelativeDocumentMoniker": "b38\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\bttt\\b38\\Program.cs",
+              "RelativeToolTip": "b38\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA7wAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:56:24.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\bttt\\b35\\Program.cs",
+              "RelativeDocumentMoniker": "b35\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\bttt\\b35\\Program.cs",
+              "RelativeToolTip": "b35\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:19:44.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\bttt\\b37\\Program.cs",
+              "RelativeDocumentMoniker": "b37\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\bttt\\b37\\Program.cs",
+              "RelativeToolTip": "b37\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:46:38.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\bttt\\b36\\Program.cs",
+              "RelativeDocumentMoniker": "b36\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\bttt\\b36\\Program.cs",
+              "RelativeToolTip": "b36\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:39:49.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\bttt\\b28\\Program.cs",
+              "RelativeDocumentMoniker": "b28\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\bttt\\b28\\Program.cs",
+              "RelativeToolTip": "b28\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:24:14.58Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

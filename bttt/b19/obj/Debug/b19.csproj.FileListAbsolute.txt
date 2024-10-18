@@ -1,0 +1,6 @@
+D:\ASP .NET Core\bttt\b19\bin\Debug\b19.exe.config
+D:\ASP .NET Core\bttt\b19\bin\Debug\b19.exe
+D:\ASP .NET Core\bttt\b19\bin\Debug\b19.pdb
+D:\ASP .NET Core\bttt\b19\obj\Debug\b19.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\bttt\b19\obj\Debug\b19.exe
+D:\ASP .NET Core\bttt\b19\obj\Debug\b19.pdb

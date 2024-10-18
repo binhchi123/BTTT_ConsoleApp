@@ -1,0 +1,7 @@
+D:\ASP .NET Core\bttt\b28\bin\Debug\b28.exe.config
+D:\ASP .NET Core\bttt\b28\bin\Debug\b28.exe
+D:\ASP .NET Core\bttt\b28\bin\Debug\b28.pdb
+D:\ASP .NET Core\bttt\b28\obj\Debug\b28.csproj.AssemblyReference.cache
+D:\ASP .NET Core\bttt\b28\obj\Debug\b28.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\bttt\b28\obj\Debug\b28.exe
+D:\ASP .NET Core\bttt\b28\obj\Debug\b28.pdb
